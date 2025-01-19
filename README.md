@@ -1,3 +1,4 @@
+
 ## Pass 1
 
 ### Uppvärmning (5-10 min)
@@ -119,4 +120,17 @@
 
 ---
 
-Dessa pass är designade för att ge en varierad och effektiv träning med både kondition, styrka och kampsportsinspirerade moment. Anpassa efter behov och nivå!
+## Övningsbeskrivningar
+
+- **Jumping jacks**: Hoppa ut med benen samtidigt som du lyfter armarna över huvudet, återgå till startposition och upprepa.
+- **Axelcirklar**: Rotera axlarna framåt och bakåt för att värma upp.
+- **Höga knän**: Spring på stället och lyft knäna så högt som möjligt.
+- **Armhävningar**: Sänk kroppen genom att böja armbågarna och tryck dig upp igen.
+- **Skuggboxning**: Boxa i luften med snabba och kontrollerade rörelser.
+- **Burpees**: Hoppa upp, landa i en knäböj, placera händerna på marken och gör en armhävning innan du hoppar upp igen.
+- **Mountain climbers**: Spring på stället i plankposition genom att dra knäna mot bröstet.
+- **Planka med slag**: Håll en plankposition och slå framåt växelvis med händerna.
+- **Rysk twist med vikt**: Sitt på marken, luta dig bakåt och rotera överkroppen från sida till sida medan du håller en vikt.
+- **Jab-cross**: En snabb slagkombination där du slår med ena handen följt av den andra.
+- **Defensive slip och weave**: Undvik imaginära slag genom att luta huvudet och kroppen åt sidan eller neråt.
+- **Mittsarbete**: En parövning där en person håller mittsar medan den andra slår mot dem.
