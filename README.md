@@ -1,7 +1,5 @@
 # Boxercise Vänge
 
----
-
 ## Pass 1
 
 ### Uppvärmning (5-10 min)
