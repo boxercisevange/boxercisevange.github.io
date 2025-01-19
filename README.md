@@ -1,4 +1,4 @@
-# Boxercise Vänge
+# Boxercise-pass
 
 Här är fyra olika boxercisepass att rulla på. Varje pass innehåller uppvärmning, pulshöjande övning, styrka i stationsmanér och martial arts-inspirerade övningar.
 
@@ -145,5 +145,7 @@ Här är fyra olika boxercisepass att rulla på. Varje pass innehåller uppvärm
   - **Axelrotationer med pinne**: Håll en pinne eller handduk framför dig och lyft den långsamt över huvudet och bakåt.
   - **Djupa knäböj med armsträck**: Gå ner i en djup knäböj och sträck armarna rakt upp samtidigt.
   - **Katt-kamel stretch**: Växla mellan att runda och svanka ryggen för att mjuka upp ryggraden.
+- **Snabba fällknivar**: Ligg på rygg med raka ben och armar. Lyft samtidigt benen och överkroppen mot varandra i en explosiv rörelse, återgå kontrollerat.
+- **Jumping lunges**: Utför ett utfallssteg och hoppa upp för att byta ben i luften, landa mjukt och upprepa.
 
 Dessa pass är designade för att ge en varierad och effektiv träning med både kondition, styrka och kampsportsinspirerade moment. Anpassa efter behov och nivå!
