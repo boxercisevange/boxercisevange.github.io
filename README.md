@@ -1,5 +1,9 @@
 # Boxercise Vänge
 
+Här är fyra olika boxercisepass att rulla på. Varje pass innehåller uppvärmning, pulshöjande övning, styrka i stationsmanér och martial arts-inspirerade övningar.
+
+---
+
 ## Pass 1
 
 ### Uppvärmning (5-10 min)
@@ -135,3 +139,11 @@
 - **Jab-cross**: En snabb slagkombination där du slår med ena handen följt av den andra.
 - **Defensive slip och weave**: Undvik imaginära slag genom att luta huvudet och kroppen åt sidan eller neråt.
 - **Mittsarbete**: En parövning där en person håller mittsar medan den andra slår mot dem.
+- **Rörlighetsövningar för höfter och axlar**:
+  - **Höftcirklar**: Stå med fötterna axelbrett och rita stora cirklar med höfterna åt båda håll.
+  - **Dynamiska utfall**: Ta stora kliv framåt och sänk höften medan du vrider överkroppen åt sidan.
+  - **Axelrotationer med pinne**: Håll en pinne eller handduk framför dig och lyft den långsamt över huvudet och bakåt.
+  - **Djupa knäböj med armsträck**: Gå ner i en djup knäböj och sträck armarna rakt upp samtidigt.
+  - **Katt-kamel stretch**: Växla mellan att runda och svanka ryggen för att mjuka upp ryggraden.
+
+Dessa pass är designade för att ge en varierad och effektiv träning med både kondition, styrka och kampsportsinspirerade moment. Anpassa efter behov och nivå!
