@@ -1,1 +1,126 @@
-# boxercisevange.github.io
+# Boxercise Vänge
+
+---
+
+## Pass 1
+
+### Uppvärmning (5-10 min)
+- Jumping jacks 1 min
+- Axelcirklar fram/bak 30 sek
+- Höga knän 1 min
+- Armhävningar långsamt 30 sek
+- Skuggboxning 2 min
+
+### Pulshöjare (10 min)
+- Burpees 30 sek
+- Mountain climbers 30 sek
+- Knäböjshopp 30 sek
+- Vila 30 sek
+(upprepa 4 gånger)
+
+### Styrka (15 min) – Stationer
+1. Planka med slag (1 min)
+2. Benböj med hopp (1 min)
+3. Medicinbollkast mot vägg (1 min)
+4. Rysk twist med vikt (1 min)
+(upprepa 3 varv)
+
+### Martial Arts (20 min)
+- Jab-cross kombinationer
+- Snabba undanmanövrar
+- Parövning: Block och kontring
+- Kort mittsarbete
+
+---
+
+## Pass 2
+
+### Uppvärmning (5-10 min)
+- Skuggboxning med fotarbete 3 min
+- Arm- och axelcirklar 1 min
+- Knäböj och stretch 2 min
+- Lätta boxhopp 2 min
+
+### Pulshöjare (10 min)
+- Step-ups på bänk 1 min
+- Shadow kicks 1 min
+- Sprinta på stället 1 min
+- Vila 30 sek
+(upprepa 3 varv)
+
+### Styrka (15 min) – Stationer
+1. Boxhopp (1 min)
+2. Liggande benlyft (1 min)
+3. Utfall med vikt (1 min)
+4. Sit-ups med slag (1 min)
+(upprepa 3 varv)
+
+### Martial Arts (20 min)
+- Snabb slagserie (jab-cross-uppercut-hook)
+- Defensive slip och weave
+- Lätta sparkar mot mittsar
+- Snabba defensiva rörelser
+
+---
+
+## Pass 3
+
+### Uppvärmning (5-10 min)
+- Skuggboxning med tempoökning 2 min
+- Armhävningar 30 sek
+- Knähopp 1 min
+- Stretching 2 min
+
+### Pulshöjare (10 min)
+- Snabba fällknivar 30 sek
+- Höga knän 30 sek
+- Jumping lunges 30 sek
+- Vila 30 sek
+(upprepa 4 varv)
+
+### Styrka (15 min) – Stationer
+1. Biceps curls med hantlar (1 min)
+2. Magrull med hjul (1 min)
+3. Explosiva knäböj (1 min)
+4. Sidoplanka med slag (1 min)
+(upprepa 3 varv)
+
+### Martial Arts (20 min)
+- Fokuserade kroppsslag
+- Lätta sparkar i följd
+- Parövning: Kontring efter undvikande
+- Intervallarbete på mittsar
+
+---
+
+## Pass 4
+
+### Uppvärmning (5-10 min)
+- Rörlighetsövningar för höfter och axlar 2 min
+- Shadowboxing med snabba slag 3 min
+- Djupa knäböj 1 min
+- Höga knän 1 min
+
+### Pulshöjare (10 min)
+- Sprint i sidled 30 sek
+- Jump squats 30 sek
+- Bergsklättrare 30 sek
+- Vila 30 sek
+(upprepa 4 varv)
+
+### Styrka (15 min) – Stationer
+1. Dynamiska armhävningar (1 min)
+2. Kettlebell swings (1 min)
+3. Maghjul (1 min)
+4. Knäböj med medicinboll (1 min)
+(upprepa 3 varv)
+
+### Martial Arts (20 min)
+- Slag-serier i högt tempo
+- Fokus på defensiv huvudrörelse
+- Snabba spark-kombinationer
+- Mittsarbete i par
+
+---
+
+Dessa pass är designade för att ge en varierad och effektiv träning med både kondition, styrka och kampsportsinspirerade moment. Anpassa efter behov och nivå!
